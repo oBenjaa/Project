@@ -1,4 +1,4 @@
-# Express + TypeScript — Servidor de Páginas Estáticas
+# Express + TypeScript — Servidor
 
 Projeto de servidor web simples utilizando **Express** e **TypeScript** para servir páginas HTML estáticas. Ideal para quem está começando com Node.js e quer entender como funciona um servidor web na prática.
 
